@@ -1,6 +1,6 @@
 # AWS SQS Example
 
-This is a simple producer/consumer example of how to utilize an AWS SQS.
+This is a simple producer/consumer example of how to utilize an AWS SQS queue.
 
 ## Producer
 
