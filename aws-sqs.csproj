@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="awssdk.core" Version="3.3.29.8" />
+    <PackageReference Include="awssdk.sqs" Version="3.3.3.34" />
+  </ItemGroup>
+</Project>
